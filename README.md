@@ -1,2 +1,1 @@
-# zgadywanie_liczb_3
-Gra w zgadywanie liczb 3 (CodersLab - Zadanie warsztatowe) 
+Jest to "Gra w zgadywanie liczb 2" zaimplementowana w aplikacji webowej przy pomocy Flask.
